@@ -1,0 +1,22 @@
+project_id = "yibao-mvp"
+
+[functions.route-plans]
+verify_jwt = false
+
+[functions.route-indoor]
+verify_jwt = false
+
+[functions.chat]
+verify_jwt = false
+
+[functions.scene-push]
+verify_jwt = false
+
+[functions.encounter-status]
+verify_jwt = false
+
+[functions.chat-v2]
+verify_jwt = false
+
+[functions.scene-push-v2]
+verify_jwt = false
